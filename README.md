@@ -1,1 +1,1 @@
-# SolidityBasics
+# Solidity
