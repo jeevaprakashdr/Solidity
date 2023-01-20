@@ -9,4 +9,5 @@ Following are some of teh useful links to configure Remix desktop IDE
 * [A Major Update Comes to the Remix Editor](https://medium.com/remix-ide/a-major-update-comes-to-the-remix-editor-3bcb38366147)
 
 #### Learning Resources
-[Smart Contract Programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+[Smart Contract Programmer - youtube](https://youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+[WTF Solidity] (https://github.com/AmazingAng/WTF-Solidity)
